@@ -1,4 +1,5 @@
 # Arahan UAS DPM 2024/2025
+#RIZA UMAMI AYMAN 223510374
 
 ## Cara menjalankan program
 1. Setelah mengunduh projek ini, buka terminal dan arahkan ke direktori projek ini.
